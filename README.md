@@ -41,5 +41,3 @@ Aplikasi penjualan web responsive dengan fitur manajemen produk, transaksi penju
 - Password disimpan menggunakan `password_hash()` PHP
 - Gambar produk disimpan di server dan dilindungi akses
 - Session digunakan untuk proteksi halaman admin
-
-## Struktur Folder
